@@ -7,7 +7,7 @@ public class ProblemGenerator {
 	public void compute() {
 		System.out.println("ProblemGenerator:");
 	}
-	
+
 	public String toString() {
 		return "Problem ";
 	}
