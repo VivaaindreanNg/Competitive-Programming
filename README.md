@@ -3,3 +3,10 @@
 
 * Java (src/main)
 * Python (src/python)
+
+
+## Running test cases (Python)
+To run a particular test module under *src/* subdir (i.e.: Run a unittest in src/python/tests/test_xxx.py), run the following command in root of this repo:
+```
+$ python -m unittest src/python/tests/test_xxx.py 
+```
