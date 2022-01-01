@@ -11,6 +11,11 @@ To run a particular test module under *euler/* subdir (i.e.: Run a unittest in e
 $ python -m unittest euler/python/tests/test_xxx.py
 ```
 
+To run test module for *coursera/* subdir based on weekX:
+```
+python -m unittest coursera/tests/test_weekX.py 
+```
+
 ## TODO:
 - [X] Rename this repo into **Competitive-Programming**
 - [X] Rename src into euler
