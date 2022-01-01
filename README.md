@@ -12,6 +12,6 @@ $ python -m unittest src/python/tests/test_xxx.py
 ```
 
 ## TODO:
-- [] Rename this repo into **Competitive-Programming**
-- [] Rename src into euler
-- [] Create several other subfolders with to cater for HackerRank, codeforces, atCoder, etc..
+- [ ] Rename this repo into **Competitive-Programming**
+- [ ] Rename src into euler
+- [ ] Create several other subfolders with to cater for HackerRank, codeforces, atCoder, etc..
