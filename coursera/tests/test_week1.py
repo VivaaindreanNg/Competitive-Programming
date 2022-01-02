@@ -13,8 +13,11 @@ class TestWeek1(unittest.TestCase):
         self.assertEqual(solve1(a, b), ans)
 
     def test_week1_2(self) -> None:
-        n = 3
-        a, b, c = 1, 2, 3
-        ans = 6
+        n1 = [1, 2, 3]
+        ans1 = 6
 
-        self.assertEqual(solve2(n, a, b, c), ans)
+        n2 = [5, 6, 2, 7, 4]
+        ans2 = 42
+
+        self.assertEqual(solve2(n1), ans1)
+        self.assertEqual(solve2(n2), ans2)

@@ -1,7 +1,6 @@
 
 
-def solve(n: int, a: int, b: int, c:int) -> int:
-    nums = [a, b, c]
+def solve(nums: list) -> int:
     max_prod = 0
 
     for i, _ in enumerate(nums):
