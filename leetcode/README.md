@@ -6,3 +6,4 @@
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) |[Python](./solutions/problem_1.py) | Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[Python](./solutions/problem_9.py) | Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) |[Python](./solutions/problem_69.py) | Easy|
