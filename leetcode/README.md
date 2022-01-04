@@ -8,3 +8,4 @@
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[Python](./solutions/problem_9.py) | Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) |[Python](./solutions/problem_69.py) | Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |[Python](./solutions/problem_217.py) | Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/) |[Python](./solutions/problem_231.py) | Easy|
