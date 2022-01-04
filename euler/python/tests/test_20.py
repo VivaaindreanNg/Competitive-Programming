@@ -1,12 +1,9 @@
-
-
 import unittest
 
 from ..problems.problem_20 import solve
 
 
 class Test20(unittest.TestCase):
-
     def test(self) -> None:
         n1 = 10
         ans1 = 27

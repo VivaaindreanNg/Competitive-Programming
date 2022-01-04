@@ -5,7 +5,7 @@ import unittest
 
 class Test3(unittest.TestCase):
     def test(self) -> None:
-        n1 = 2 
+        n1 = 2
         ans1 = 9009
 
         n2 = 3
