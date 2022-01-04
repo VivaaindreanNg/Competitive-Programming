@@ -6,7 +6,7 @@ class Solution:
         """
         Approach 1: Using 2D table for comparison.
         Results: TLE (Time Limit Exceeded)
-        
+
         for i, _ in enumerate(nums):
             for j, _ in enumerate(nums):
                 if i < j:

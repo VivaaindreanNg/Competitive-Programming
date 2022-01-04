@@ -4,7 +4,7 @@ from typing import List
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         output = []
-        
+
         n = len(nums)
         for i, _ in enumerate(nums):
             for j, _ in enumerate(nums):
@@ -13,5 +13,5 @@ class Solution:
                     if sums == target:
                         output.append(i)
                         output.append(j)
-                    
+
         return output
