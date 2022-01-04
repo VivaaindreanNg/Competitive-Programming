@@ -13,7 +13,7 @@ $ python -m unittest euler/python/tests/test_xxx.py
 
 To run test module for *coursera/* subdir based on weekX:
 ```
-python -m unittest coursera/tests/test_weekX.py 
+python -m unittest coursera/tests/test_weekX.py
 ```
 
 ## TODO:
