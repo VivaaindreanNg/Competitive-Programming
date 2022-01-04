@@ -3,8 +3,8 @@ from ..problems.week1_2 import solve as solve2
 
 import unittest
 
-class TestWeek1(unittest.TestCase):
 
+class TestWeek1(unittest.TestCase):
     def test_week1_1(self) -> None:
         a = 9
         b = 7

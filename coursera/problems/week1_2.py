@@ -1,5 +1,3 @@
-
-
 def solve(nums: list) -> int:
     max_prod = 0
 
