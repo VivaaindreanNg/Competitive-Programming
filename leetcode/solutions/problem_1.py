@@ -23,7 +23,7 @@ class Solution:
 
         Approach 2: Using hashmap. Iterate through all elements
         only once to find out if there's already value that matches
-        target in the hashmap.
+        (target - val) in the hashmap.
 
         Time complexity: O(n)
         """
