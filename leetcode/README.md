@@ -9,3 +9,4 @@
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) |[Python](./solutions/problem_69.py) | Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |[Python](./solutions/problem_217.py) | Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) |[Python](./solutions/problem_231.py) | Easy|
+|268|[Missing Numbers](https://leetcode.com/problems/missing-number/) |[Python](./solutions/problem_268.py) | Easy|
