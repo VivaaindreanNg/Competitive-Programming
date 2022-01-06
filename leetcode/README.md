@@ -10,3 +10,4 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |[Python](./solutions/problem_217.py) | Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) |[Python](./solutions/problem_231.py) | Easy|
 |268|[Missing Numbers](https://leetcode.com/problems/missing-number/) |[Python](./solutions/problem_268.py) | Easy|
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) |[Python](./solutions/problem_1480.py) | Easy|
