@@ -1,5 +1,5 @@
 # Solutions for Competitive Programming based sites
-### This repository contains list of problems solved problems for sites like EulerProject, CodeForces, etc... sites in both Java & Python. Example for EulerProject subdir:
+### This repository contains list of problems solved problems for sites like EulerProject, CodeForces, etc... sites in both Java & (mostly) Python. Example for EulerProject subdir:
 
 * Java (euler/main)
 * Python (euler/python)
