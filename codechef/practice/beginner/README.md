@@ -16,4 +16,5 @@
 |10|[FLOW017](https://www.codechef.com/problems/FLOW017) |[Python](./FLOW017.py) |
 |11|[FLOW018](https://www.codechef.com/problems/FLOW018) |[Python](./FLOW018.py) |
 |12|[FLOW008](https://www.codechef.com/problems/FLOW008) |[Python](./FLOW008.py) |
-|12|[TLG](https://www.codechef.com/problems/TLG) |[Python](./TLG.py) |
+|13|[TLG](https://www.codechef.com/problems/TLG) |[Python](./TLG.py) |
+|14|[CHOPRT](https://www.codechef.com/problems/CHOPRT) |[Python](./CHOPRT.py) |
