@@ -8,5 +8,4 @@ class Solution:
 
 s = Solution()
 num = int(input())
-
 print(s.solve(num))
