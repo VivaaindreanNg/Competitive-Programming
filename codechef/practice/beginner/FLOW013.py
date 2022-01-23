@@ -3,7 +3,7 @@ from typing import List
 
 class Solution:
     def solve(self, angles: List[int]) -> str:
-        return 'YES' if sum(angles) == 180 else 'NO'
+        return "YES" if sum(angles) == 180 else "NO"
 
 
 s = Solution()

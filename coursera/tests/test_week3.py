@@ -1,6 +1,6 @@
-from ..problems.week3_1 import solve as solve1
-
 import unittest
+
+from ..problems.week3_1 import solve as solve1
 
 
 class TestWeek3(unittest.TestCase):

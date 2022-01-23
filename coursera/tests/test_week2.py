@@ -1,7 +1,7 @@
-from ..problems.week2_1 import solve1, solve2
-
 import time
 import unittest
+
+from ..problems.week2_1 import solve1, solve2
 
 
 class TestWeek2(unittest.TestCase):
